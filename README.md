@@ -58,7 +58,6 @@ Improve animations and UI
 
 👩‍💻 Author
 
-Name: Shilpa
+Name: Shilpa Shree J
 CID: FIT/FEB26/FS11711
 
-GitHub: https://github.com/Shilpashree518
